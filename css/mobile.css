@@ -1,8 +1,19 @@
 :root{
-    --primary-color: #174462;
+    --primary-color: #098de6;
     --gray-ligth-color: #c7c7c7;
     --white-color: #FFFFFF;
     --text-input-field-color: #f7f7f7;
     --black-color:#000000;
     --dark-color: #232830;
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-family: "Quicksand";
+    font-size: 62.5%;
 }
